@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">liveasy</string>
+    <string-array name="Entries">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+</resources>
